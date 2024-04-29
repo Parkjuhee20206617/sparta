@@ -1489,6 +1489,8 @@
     .iphone-pro-max {
         width: 428px;
         height: 1918px;
+        position: relative; 
+
     }
 
     .iphone-pro-max .div {
